@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 MultiChannel/*
+artifacts/
+checkpoints/
+**/artifacts/
+**/checkpoints/
+*.weights.h5
+*.h5
+*.keras
+*.zip
